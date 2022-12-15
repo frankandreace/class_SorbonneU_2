@@ -4,7 +4,7 @@ Practical session for the Pangenomics and Metagenomics class given at Sorbonne U
 
 FOr the teoretical part, I used a lot of material from Rayan Chiki's lecuture at WABI2022.
 
-Francesco's slides: [soon here]
+Francesco's slides: https://docs.google.com/presentation/d/1AY0s1vnbb0TYTet9nJlSoVlg0zBnpdnwM_CxKg3suZ0/edit?usp=sharing   
 
 
 ## Rationale
@@ -39,8 +39,8 @@ Activation of the environment on Linux/Mac:
 Now have a look at how tools work:   
 minimap2 webpage: https://github.com/lh3/   
 miniasm webpage: https://github.com/lh3/miniasm
-bcalm webpage: https://github.com/GATB/bcalm
-spades webpage: https://github.com/ablab/spades#meta
+bcalm webpage: https://github.com/GATB/bcalm   
+spades webpage: https://github.com/ablab/spades#meta   
 maxbin2 webpage: https://github.com/assemblerflow/flowcraft/blob/master/docs/user/components/maxbin2.rst
 
 Or reading the helpme of the tools.
